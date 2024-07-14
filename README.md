@@ -1,2 +1,3 @@
 # My-Journey
 This is my 1st git repository
+Auther - Md.Al-Mahmud.
